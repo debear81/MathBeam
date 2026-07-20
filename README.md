@@ -6,7 +6,7 @@ MathBeam is a MathCAD Prime (10) worksheet for one-dimensional beam analysis usi
 - Point loads
 - Reaction, shear, and moment output
 
-## CAPBILITIES & ASSUMPTIONS
+## CAPABILITIES & ASSUMPTIONS
 - Single & multi-span beam analysis
 - Linear elastic analysis
 - Small displacement theory
@@ -31,3 +31,5 @@ This is a work in progress, beta version. Current version limitations include:
 
 ## VERIFICATION
 See documents folder for comparisons of worksheet results to industry software results
+
+Beta software — independently verify all results. Not intended as the sole basis for final engineering design.
