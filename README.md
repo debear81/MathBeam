@@ -26,7 +26,8 @@ This is a work in progress, beta version. Current version limitations include:
 - No frame or truss analysis
 
 ### SCREENSHOT
-(image)
+<img width="808" height="625" alt="image" src="https://github.com/user-attachments/assets/e883835a-7583-4668-bccb-6f8d612977ce" />
+
 
 ## VERIFICATION
 See documents folder for comparisons of worksheet results to industry software results
